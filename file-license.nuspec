@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>FileLicenseTest</id>
+    <version>1.0.0</version>
+    <authors>matt</authors>
+    <owners>matt</owners>
+    <projectUrl>http://xamarin.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package </description>
+    <copyright>Copyright 2019</copyright>
+<license type="file">license.txt</license>
+    <dependencies>
+      <dependency id="Test.Xam.Standard" version="0.1" />
+    </dependencies>
+  </metadata>
+ <files>
+    <file src="license.txt" target="" />
+  </files>
+</package>
