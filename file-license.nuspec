@@ -6,12 +6,12 @@
     <authors>matt</authors>
     <owners>matt</owners>
     <projectUrl>http://xamarin.com</projectUrl>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>Package </description>
     <copyright>Copyright 2019</copyright>
 <license type="file">license.txt</license>
     <dependencies>
-      <dependency id="Test.Xam.Standard" version="0.1" />
+      <dependency id="Test.Xam.NetStandard" version="1.0.0" />
     </dependencies>
   </metadata>
  <files>

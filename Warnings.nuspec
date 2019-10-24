@@ -6,12 +6,12 @@
     <authors>matt</authors>
     <owners>matt</owners>
     <projectUrl>http://xamarin.com</projectUrl>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>Package </description>
     <copyright>Copyright 2019</copyright>
 <license type="expression">Apache-1.0 OR (GPL-2.0-or-later WITH Nokia-Qt-exception-1.1 AND AMIT)</license>
     <dependencies>
-      <dependency id="Test.Xam.Standard" version="0.1" />
+      <dependency id="Test.Xam.NetStandard" version="1.0.0" />
     </dependencies>
   </metadata>
 </package>
