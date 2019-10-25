@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>DependOnAllTest</id>
+    <version>1.0.0</version>
+    <authors>matt</authors>
+    <owners>matt</owners>
+    <projectUrl>http://xamarin.com</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Package </description>
+    <copyright>Copyright 2019</copyright>
+<licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+<license type="expression">MIT</license>
+    <dependencies>
+      <dependency id="TESTTESTTEST" version="1.0.0" />
+      <dependency id="FileLicenseTest" version="1.0.0" />
+      <dependency id="LicenseExpressionTest" version="1.0.0" />
+      <dependency id="WarningsLicenseExpressionTest" version="1.0.0" />
+    </dependencies>
+  </metadata>
+</package>
