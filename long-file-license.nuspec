@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>LongFileLicenseTest</id>
+    <version>1.0.0</version>
+    <authors>matt</authors>
+    <owners>matt</owners>
+    <projectUrl>http://xamarin.com</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Package </description>
+    <copyright>Copyright 2019</copyright>
+<license type="file">long-license.txt</license>
+    <dependencies>
+      <dependency id="Test.Xam.NetStandard" version="1.0.0" />
+    </dependencies>
+  </metadata>
+ <files>
+    <file src="long-license.txt" target="" />
+  </files>
+</package>
